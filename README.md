@@ -1,6 +1,10 @@
 # Vislice
 igra vislice
 
+## Avtorji
+* on
+* tisti
+
 ## kratek opis
 
 
