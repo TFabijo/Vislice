@@ -4,6 +4,7 @@ igra vislice
 ## Avtorji
 * on
 * tisti
+* tretji
 
 ## kratek opis
 
